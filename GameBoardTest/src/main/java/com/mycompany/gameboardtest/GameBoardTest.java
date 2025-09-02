@@ -23,7 +23,7 @@ public class GameBoardTest extends JFrame {
     public GameBoardTest() {
         setTitle("GameBoard Standalone Test");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setMinimumSize(new Dimension(1200, 800));
+        setMinimumSize(new Dimension(1920, 1080));
         setLocationRelativeTo(null);
 
         // Main panel for the game board
